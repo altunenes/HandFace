@@ -1,8 +1,17 @@
 # HandFace
 Deep learning model for detection hand-face interactions
 
-Note: This is a pilot model for future research project, so it's not finished yet. 
-The model has been trained in google-coolab for 20+ hours with 1796 unique images. 
+Note: This is a pilot model for a future research project, so it's not finished yet. 
+The model has been trained in google-collab with 1796 unique images. For now, the total number of classes is 3: Cheek, forehead, and chin. In the labeling process sometimes it was very overwhelming since the human hands were big enough to cover the whole face. So in this scenario, I made my decision based on the place where the hand exerts the most pressure on the face (this paradigm is also consistent with my research )
+
+
+
+![117hand](https://user-images.githubusercontent.com/54986652/128066029-b4114fb4-9da5-4cf6-a87e-0170f8988a5b.png)
+![avoRMoX_700b](https://user-images.githubusercontent.com/54986652/128066080-040a076c-5102-4371-ae28-064a5dc10066.png)
+![131hand](https://user-images.githubusercontent.com/54986652/128066467-43b5abae-829c-44d1-b67a-c672f1e799d2.jpg)
+
+
+
 
 
 ```
