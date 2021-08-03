@@ -8,7 +8,7 @@ The model has been trained in google-collab with 1796 unique images. For now, th
 
 ![117hand](https://user-images.githubusercontent.com/54986652/128066029-b4114fb4-9da5-4cf6-a87e-0170f8988a5b.png)
 ![avoRMoX_700b](https://user-images.githubusercontent.com/54986652/128066080-040a076c-5102-4371-ae28-064a5dc10066.png)
-![131hand](https://user-images.githubusercontent.com/54986652/128066467-43b5abae-829c-44d1-b67a-c672f1e799d2.jpg)
+![131hand](https://user-images.githubusercontent.com/54986652/128067708-fa65dba8-c1e8-456d-b59b-1ab2031d3870.png)
 
 
 
