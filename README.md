@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/emportent/handface/badge)](https://www.codefactor.io/repository/github/emportent/handface)
+
 # HandFace
 Deep learning model for detection hand-face interactions
 
