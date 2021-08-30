@@ -16,7 +16,7 @@ img=os.path.join(path,"test","21hand.jpg")    #input folder from the path (test)
 
 result=xmodel(img)
 result.print()
-
+print(result.pandas().xyxy[0]) #show results as data frame.
 plt.imshow(np.squeeze(result.render()))
 
 plt.savefig("best3/21hand.png")                 #saving image to "best3" folder 
