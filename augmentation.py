@@ -6,7 +6,7 @@ from xml.dom import minidom
 import random
 import copy
 
-# ########### Buslaev, A., Iglovikov, V. I., Khvedchenya, E., Parinov, A., Druzhinin, M., & Kalinin, A. A. (2020). Albumentations: Fast and Flexible Image Augmentations. Information, 11(2), 125. MDPI AG. Retrieved from http://dx.doi.org/10.3390/info11020125#######
+############ Buslaev, A., Iglovikov, V. I., Khvedchenya, E., Parinov, A., Druzhinin, M., & Kalinin, A. A. (2020). Albumentations: Fast and Flexible Image Augmentations. Information, 11(2), 125. MDPI AG. Retrieved from http://dx.doi.org/10.3390/info11020125#######
 
 imagespath = 'C:/Users/emportent/Desktop/handgest/images/'
 random.seed(7)
